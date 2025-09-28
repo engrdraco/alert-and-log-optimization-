@@ -1,0 +1,1 @@
+One way to measure the effectiveness of an organization's incident response process is through the use of metrics. By tracking metrics, organizations can identify areas where they are doing well and areas that need improvement. Metrics help security teams make informed decisions supported by data that can be used to improve the incident response processes.
